@@ -126,10 +126,10 @@ Kolejność klapek godzinowych odpowiada fizycznym rdzeniom słów zastosowanym 
 - Wartości `STEPS_PER_FLAP`, kąty serw, prędkość i przyspieszenie mogą wymagać dostrojenia do konkretnej konstrukcji.
   Kąty serw dla poszczególnych pozycji zapisane są w tablicach:
   
-    int posZA[2] = {0, 155};     // blank, ZA
-    int posPO[2] = {0, 155};     // blank, PO
-    int posEND[3] = {139, 77, 16};  // A, EJ, IEJ
-    int pos1_4MIN[5] = {0, 45, 85, 127, 170};  // 0, 1, 2, 3, 4
+    - int posZA[2] = {0, 155};     // blank, ZA
+    - int posPO[2] = {0, 155};     // blank, PO
+    - int posEND[3] = {139, 77, 16};  // A, EJ, IEJ
+    - int pos1_4MIN[5] = {0, 45, 85, 127, 170};  // 0, 1, 2, 3, 4
 
 ## Struktura repozytorium
 
