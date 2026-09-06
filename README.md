@@ -125,6 +125,7 @@ Kolejność klapek godzinowych odpowiada fizycznym rdzeniom słów zastosowanym 
 - Panel WWW nie ma uwierzytelniania i powinien być dostępny wyłącznie w zaufanej sieci lokalnej.
 - Wartości `STEPS_PER_FLAP`, kąty serw, prędkość i przyspieszenie mogą wymagać dostrojenia do konkretnej konstrukcji.
   Kąty serw dla poszczególnych pozycji zapisane są w tablicach:
+  
     int posZA[2] = {0, 155};     // blank, ZA
     int posPO[2] = {0, 155};     // blank, PO
     int posEND[3] = {139, 77, 16};  // A, EJ, IEJ
