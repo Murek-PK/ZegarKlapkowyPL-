@@ -113,8 +113,10 @@ Kolejność klapek minutowych:
 
 ```text
 pusta, pięć, dziesięć, kwadrans, dwadzieścia, dwadzieścia pięć,
-w pół do, dwadzieścia pięć, dwadzieścia, kwadrans, dziesięć, pięć
+w pół do, dwadzieścia pięć., dwadzieścia., kwadrans., dziesięć., pięć.
 ```
+
+Zwróć uwagę, że minuty prezentujące wartości po "w pół do", w drugiej części godziny, mają umieszczoną w prawym dolnym rogu klapki, kropkę w celu lepszej identyfikacji. 
 
 Kolejność klapek godzinowych odpowiada fizycznym rdzeniom słów zastosowanym w tej konstrukcji i jest zdefiniowana w tablicy `HOUR_FLAP_LABELS` w szkicu.
 
