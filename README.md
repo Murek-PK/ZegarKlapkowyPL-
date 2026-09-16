@@ -2,6 +2,10 @@
 
 Polski zegar słowny z mechanicznymi klapkami, zbudowany na ESP32. Czas jest pobierany z NTP, dwa silniki krokowe ustawiają klapki minutowe i godzinowe, a cztery serwa wybierają dodatkowe człony polskiej frazy.
 
+Projekt został przygotowany do druku 3D - pliki do pobrania znajdują się tutaj:
+https://cults3d.com/en/3d-model/home/mechanical-flip-word-clock-polish-version
+
+
 Projekt udostępnia lokalny panel WWW do ręcznego przesuwania mechanizmu i zapisywania kalibracji. Stan klapek jest przechowywany w pamięci EEPROM, dzięki czemu po restarcie zegar może wrócić do aktualnego wskazania.
 
 ![Schemat połączeń](docs/schemat-polaczen-v2.png)
