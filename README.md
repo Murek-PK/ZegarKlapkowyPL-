@@ -144,43 +144,23 @@ zegar_klapkowy_PL/
     └── schemat-polaczen-v2.png
 ```
 
-## Licencje
+## Licencja i wykorzystanie komercyjne
 
-Projekt składa się z oprogramowania, dokumentacji oraz plików konstrukcyjnych,
-dlatego poszczególne jego części są udostępniane na różnych licencjach.
+Kod źródłowy jest udostępniany na licencji MIT.
 
-### Oprogramowanie
+Modele 3D, pliki konstrukcyjne, instrukcje, zdjęcia i ilustracje są
+udostępniane na licencji Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International
+(CC BY-NC-SA 4.0).
 
-Kod źródłowy ESP32 oraz pozostałe pliki programistyczne są udostępniane
-na licencji MIT.
+Dozwolone jest wykonywanie zegara na własny użytek, modyfikowanie projektu
+oraz niekomercyjne udostępnianie jego zmienionych wersji, pod warunkiem
+podania autora i zachowania tej samej licencji.
 
-Copyright (c) 2026 Murek
+Sprzedaż modeli, wydruków, zestawów, gotowych zegarów lub innych produktów
+opartych na tym projekcie wymaga wcześniejszej pisemnej zgody autora.
 
-### Modele 3D i konstrukcja
+W sprawie licencji komercyjnej proszę o kontakt:
+murek0@gmail.com
 
-Modele 3D, pliki CAD, schematy mechaniczne i elektroniczne oraz pozostałe
-materiały konstrukcyjne są udostępniane na licencji:
-
-CERN Open Hardware Licence Version 2 – Weakly Reciprocal
-SPDX-License-Identifier: CERN-OHL-W-2.0
-
-Możesz wykonywać, modyfikować i rozpowszechniać projekt oraz zbudowane
-na jego podstawie urządzenia. W przypadku rozpowszechniania zmodyfikowanej
-wersji należy udostępnić zmodyfikowane pliki źródłowe na warunkach
-licencji CERN-OHL-W-2.0.
-
-### Dokumentacja i grafiki
-
-Instrukcje, zdjęcia, ilustracje oraz pozostała dokumentacja są udostępniane
-na licencji Creative Commons Attribution-ShareAlike 4.0 International
-(CC BY-SA 4.0).
-
-Przy wykorzystaniu tych materiałów należy podać autora, wskazać źródło
-projektu oraz zaznaczyć wprowadzone zmiany. Materiały pochodne muszą być
-udostępniane na tej samej licencji.
-
-### Brak gwarancji
-
-Projekt jest udostępniany w stanie „takim, jaki jest”, bez jakiejkolwiek
-gwarancji. Autor nie ponosi odpowiedzialności za szkody wynikające
-z budowy, użytkowania lub modyfikacji urządzenia.
+(c) 2026 Murek
