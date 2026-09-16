@@ -144,6 +144,43 @@ zegar_klapkowy_PL/
     └── schemat-polaczen-v2.png
 ```
 
-## Licencja
+## Licencje
 
-Przed publicznym udostępnieniem warto dodać plik `LICENSE`. Wybór licencji zależy od tego, czy pozwalasz innym swobodnie kopiować i modyfikować projekt. Dla otwartych projektów hobbystycznych często wybierana jest licencja MIT, ale nie została dodana automatycznie.
+Projekt składa się z oprogramowania, dokumentacji oraz plików konstrukcyjnych,
+dlatego poszczególne jego części są udostępniane na różnych licencjach.
+
+### Oprogramowanie
+
+Kod źródłowy ESP32 oraz pozostałe pliki programistyczne są udostępniane
+na licencji MIT.
+
+Copyright (c) 2026 [IMIĘ I NAZWISKO LUB NAZWA UŻYTKOWNIKA]
+
+### Modele 3D i konstrukcja
+
+Modele 3D, pliki CAD, schematy mechaniczne i elektroniczne oraz pozostałe
+materiały konstrukcyjne są udostępniane na licencji:
+
+CERN Open Hardware Licence Version 2 – Weakly Reciprocal
+SPDX-License-Identifier: CERN-OHL-W-2.0
+
+Możesz wykonywać, modyfikować i rozpowszechniać projekt oraz zbudowane
+na jego podstawie urządzenia. W przypadku rozpowszechniania zmodyfikowanej
+wersji należy udostępnić zmodyfikowane pliki źródłowe na warunkach
+licencji CERN-OHL-W-2.0.
+
+### Dokumentacja i grafiki
+
+Instrukcje, zdjęcia, ilustracje oraz pozostała dokumentacja są udostępniane
+na licencji Creative Commons Attribution-ShareAlike 4.0 International
+(CC BY-SA 4.0).
+
+Przy wykorzystaniu tych materiałów należy podać autora, wskazać źródło
+projektu oraz zaznaczyć wprowadzone zmiany. Materiały pochodne muszą być
+udostępniane na tej samej licencji.
+
+### Brak gwarancji
+
+Projekt jest udostępniany w stanie „takim, jaki jest”, bez jakiejkolwiek
+gwarancji. Autor nie ponosi odpowiedzialności za szkody wynikające
+z budowy, użytkowania lub modyfikacji urządzenia.
