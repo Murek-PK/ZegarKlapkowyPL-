@@ -154,7 +154,7 @@ dlatego poszczególne jego części są udostępniane na różnych licencjach.
 Kod źródłowy ESP32 oraz pozostałe pliki programistyczne są udostępniane
 na licencji MIT.
 
-Copyright (c) 2026 [IMIĘ I NAZWISKO LUB NAZWA UŻYTKOWNIKA]
+Copyright (c) 2026 Murek
 
 ### Modele 3D i konstrukcja
 
